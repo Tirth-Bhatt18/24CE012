@@ -1,3 +1,5 @@
 # 24CE012CCP
-Charusat Computer Concepts And Programming Sem 1 Practical Projects
+CHARUSAT
+CEUC101:Computer Concepts And Programming
+Sem 1 Practicals
 Tirth Bhatt 24CE012
